@@ -1,0 +1,1 @@
+{"name":"Local: second_largest","url":"e:\\C_Programming\\practice_prob\\second_largest.c","tests":[{"id":1764220185835,"input":"8\n0 0 0 0 87 439 540 1","output":"439"},{"id":1764220223714,"input":"","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\C_Programming\\practice_prob\\second_largest.c","group":"local","local":true}
